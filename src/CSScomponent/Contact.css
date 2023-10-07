@@ -1,0 +1,24 @@
+.body {
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+.Card {
+    display: inline-block;
+    width: 45%;
+    height: 20%;
+    background-color: grey;
+
+}
+.image {
+    display: inline-block;
+    width: 50rem;
+    height: 95rem;
+
+}
+.coontent {
+    float: right;
+    width:40%;
+    height: 95%;
+
+}

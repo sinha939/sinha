@@ -1,0 +1,49 @@
+.home-box{
+    padding: 1px;
+    box-sizing: border-box;
+    height: 70%;
+    width: 100vw;
+    background-color: blue;
+    text-decoration-color: aliceblue;
+}
+.text-box {
+    float: left;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 15rem;
+    padding: 15px;
+    width: 50vw;
+    
+
+
+}
+.text-box > h1 {
+    display:block;
+    text-decoration-color: aliceblue;
+    font-weight: 1rem;
+    
+}
+.text-box > article {
+    display:block;
+    text-decoration-color: aliceblue;
+    font-weight: 1rem;
+}
+.text-box > input {
+    display:inline-block;
+    text-decoration-color: aliceblue;
+    font-weight: 1rem;
+}
+.text-box >  a {
+    display:block;
+    text-decoration-color: aliceblue;
+    font-weight: 1rem;
+}
+ .home-box > img {
+    display: inline-block;
+    position: relative;
+    box-sizing: content-box;
+    padding: 5px;
+    margin: 1.5rem;
+    width: 40vw;
+    height: 70vh;
+ }
